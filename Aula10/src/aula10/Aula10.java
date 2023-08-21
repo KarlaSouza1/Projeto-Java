@@ -3,8 +3,10 @@ package aula10;
 import java.util.Scanner;
 
 /**
- *
- * @author 
+ * Aula 10
+ * Disciplina: Linguagem de programação
+ * Data: 21/08/2023
+ * @author Karla Souza
  */
 public class Aula10 {
     public static void main(String[] args) {
